@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DioStats</string>
+    <string name="title_activity_table_view">tableView</string>
+</resources>
